@@ -1,0 +1,17 @@
+CREATE TABLE Employee_Roster_Data_USD
+	(User_ID varchar(1000),
+	Email_ID varchar(1000),
+	Title varchar(1000),
+	Fullname varchar(1000),
+	Department varchar(1000),
+	Gender varchar(1000),
+	Office varchar(1000),
+	Region varchar(1000),
+	Tenure_Yrs varchar(1000),
+	Seniority varchar(1000),
+	Salary varchar(1000),
+	Currency varchar(1000),
+	Rating varchar(1000),
+	Survey_Score varchar(1000),
+	Promotion varchar(1000),
+	Avg_Hrs varchar(1000));
